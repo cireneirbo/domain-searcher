@@ -1,1 +1,0 @@
-A React and ASP.net Core project that uses "https://domainsdb.info/" to make API calls and return information about registered domain names from that site's database.
