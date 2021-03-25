@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Pages",
+    "\\wwwroot\\css"
   ],
+  "SelectedNode": "\\domain-searcher.csproj",
   "PreviewInSolutionExplorer": false
 }
